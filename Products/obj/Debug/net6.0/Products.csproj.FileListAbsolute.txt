@@ -1,0 +1,261 @@
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Products.exe
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Products.deps.json
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Products.runtimeconfig.json
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Products.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Products.pdb
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.Products.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.build.Products.props
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Products.props
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Products.props
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\scopedcss\bundle\Products.styles.css
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.dll
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\refint\Products.dll
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.pdb
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\Products.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Products\Products\obj\Debug\net6.0\ref\Products.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\appsettings.json
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.exe
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.deps.json
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.runtimeconfig.json
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.pdb
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.Products.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.build.Products.props
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Products.props
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Products.props
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\scopedcss\bundle\Products.styles.css
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\refint\Products.dll
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.pdb
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\ref\Products.dll
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.csproj.AssemblyReference.cache
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.AssemblyInfoInputs.cache
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.AssemblyInfo.cs
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.dll
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\refint\Products.dll
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.pdb
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\appsettings.json
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.exe
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.deps.json
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.runtimeconfig.json
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Products.pdb
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Azure.Core.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Azure.Identity.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Humanizer.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.CodeDom.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Text.Json.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Projects DOT NET\Products\Products\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.Products.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.build.Products.props
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Products.props
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Products.props
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\scopedcss\bundle\Products.styles.css
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.csproj.Up2Date
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\Products.genruntimeconfig.cache
+D:\Desktop\Projects DOT NET\Products\Products\obj\Debug\net6.0\ref\Products.dll
